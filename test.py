@@ -197,3 +197,5 @@ print(aaa.sum2())
 bbb = myclass2(2,3,4)
 print(aaa.sum2())
 
+
+#Gitテスト
